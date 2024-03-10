@@ -14,6 +14,8 @@ fun main(args: Array<String>) {
     println(book1.isAvailable())
     println(book2.isAvailable())
     println(book3.isAvailable())
+    println(" ")
+
 
 
 }
